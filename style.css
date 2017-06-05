@@ -1,0 +1,9 @@
+.ColumnLeft {
+  background-color: Blue;
+  border-style: dotted;
+}
+
+.ColumnRight {
+  background-color: Red;
+  border-style: dotted;
+}
